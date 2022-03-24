@@ -1,0 +1,14 @@
+#\u6FC0\u6D3B\u4F7F\u7528\u54EA\u4E2A\u914D\u7F6E\u6587\u4EF6
+
+spring:
+  profiles:
+    active: test
+
+
+#\u81EA\u5B9A\u4E49key=value
+
+school.name: \u5929\u7AF9\u5C0F\u5B66
+school.web: www.hao123.com
+
+site: www.baidu.com
+
